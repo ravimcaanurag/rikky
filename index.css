@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+.image
+{
+background-image: url(images/image2.jpg);
+background-repeat:no-repeat;
+}
+.main
+{
+width:1024px;
+height:900px;
+margin:0 auto;
+background-color: #FFFFFF;
+}
+.bannar
+{
+width:1024px;
+height:120px;
+background-color:#666600;
+}
+.button
+{
+width:1024px;
+height:40px;
+background-color:#0B76CE;
+}
+.scrolling
+{
+width:1024px;
+height:50px;
+
+}
+.body
+{
+width:1024px;
+height:650px;
+
+}
+.left
+{
+width:200px;
+height:650px;
+float:left;
+
+}
+.middle
+{
+width:574px;
+height:650px;
+float:left;
+
+}
+.home
+{
+
+width:554px;
+height:630px;
+margin-top:10px;
+margin-left:10px;
+margin-right:10px;
+margin-bottom:10px;
+}
+.right
+{
+width:250px;
+height:650px;
+float: right;
+
+}
+.bottom
+{
+width:1024px;
+height:40px;
+background-color: #999966;
+}
